@@ -1,0 +1,47 @@
+{
+    "name": "python-extension-pack",
+    "displayName": "Python UltiExtension Pack",
+    "description": "Popular VSCode extensions for Python",
+    "version": "1.0",
+    "publisher": "eliazbobadilla",
+	"author": {
+		"name": "Eliaz Bobadilla",
+		"email": "eliaz.bobadilladev@gmail.com"
+	},
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/EliazBobadilla/Python-Extension-Pack-VSCode.git"
+	},
+	"bugs": {
+		"url": "https://github.com/EliazBobadilla/Python-Extension-Pack-VSCode/issues"
+	},
+	"icon": "icon.png",
+	"galleryBanner": {
+		"color": "#1e415e",
+		"theme": "dark"
+	},
+    "engines": {
+        "vscode": "^1.26.0"
+    },
+	"keywords": [
+		"python",
+		"django",
+		"debugger",
+		"unittest",
+        "jinja"
+	],
+    "categories": [
+        "Extension Packs" "Python"
+    ],
+    "extensionPack": [
+        "ms-python.python",
+        "KevinRose.vsc-python-indent",
+        "EliazBobadilla.python-ultisnippets",
+        "VisualStudioExptTeam.vscodeintellicode",
+        "njpwerner.autodocstring",
+        "almenon.arepl"
+
+    
+    ]
+}
