@@ -1,8 +1,8 @@
 {
     "name": "python-ultiextension-pack",
     "displayName": "Python UltiExtension Pack",
-    "description": "Popular VSCode extensions for Python",
-    "version": "1.0.0",
+    "description": "Finally an extension package that is constantly updated!",
+    "version": "1.5.0",
     "publisher": "eliazbobadilla",
 	"author": {
 		"name": "Eliaz Bobadilla",
