@@ -1,5 +1,6 @@
 # Ultimate Pack Extension for Python
 [![Version](https://vsmarketplacebadge.apphb.com/version-short/EliazBobadilla.python-ultiextension-pack.svg)](https://marketplace.visualstudio.com/items?itemName=EliazBobadilla.python-ultiextension-pack.) [![Rating](https://vsmarketplacebadge.apphb.com/rating-short/EliazBobadilla.python-ultiextension-pack..svg)](https://marketplace.visualstudio.com/items?itemName=EliazBobadilla.python-ultiextension-pack.) [![Installs](https://vsmarketplacebadge.apphb.com/installs/EliazBobadilla.python-ultiextension-pack.svg)](https://marketplace.visualstudio.com/items?itemName=EliazBobadilla.python-ultiextension-pack.)
+
 This extension pack is made to make your life easier and leave you a ready-to-use workspace for Python development. I will be constantly updating the extension and checking comments.
 ## Extensions Included
 
