@@ -1,8 +1,8 @@
 {
-    "name": "python-extension-pack",
+    "name": "python-ultiextension-pack",
     "displayName": "Python UltiExtension Pack",
     "description": "Popular VSCode extensions for Python",
-    "version": "1.0",
+    "version": "1.0.0",
     "publisher": "eliazbobadilla",
 	"author": {
 		"name": "Eliaz Bobadilla",
@@ -11,12 +11,12 @@
 	"license": "MIT",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/EliazBobadilla/Python-Extension-Pack-VSCode.git"
+		"url": "https://github.com/EliazBobadilla/Python-UltiExtension-Pack-VSCode.git"
 	},
 	"bugs": {
-		"url": "https://github.com/EliazBobadilla/Python-Extension-Pack-VSCode/issues"
+		"url": "https://github.com/EliazBobadilla/Python-UltiExtension-Pack-VSCode/issues"
 	},
-	"icon": "icon.png",
+	"icon": "img/icon.jpg",
 	"galleryBanner": {
 		"color": "#1e415e",
 		"theme": "dark"
@@ -26,13 +26,12 @@
     },
 	"keywords": [
 		"python",
-		"django",
 		"debugger",
-		"unittest",
-        "jinja"
+		"intellicode",
+		"autodocstring"
 	],
     "categories": [
-        "Extension Packs" "Python"
+        "Extension Packs" 
     ],
     "extensionPack": [
         "ms-python.python",
@@ -41,7 +40,5 @@
         "VisualStudioExptTeam.vscodeintellicode",
         "njpwerner.autodocstring",
         "almenon.arepl"
-
-    
     ]
 }
