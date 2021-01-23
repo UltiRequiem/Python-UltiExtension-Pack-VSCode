@@ -6,14 +6,13 @@ This extension pack is made to make your life easier and leave you a ready-to-us
 
 * [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python) - Linting, Debugging (multi-threaded, remote), Intellisense, code formatting, refactoring, unit tests, snippets, Data Science (with Jupyter), PySpark and more.  
 * [Python UltiSnippets](https://marketplace.visualstudio.com/items?itemName=EliazBobadilla.python-ultisnippets) - A set of Python snippets for VSCode
-
 * [Visual Studio IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode) - Provides AI-assisted productivity features for Python developers in Visual Studio Code with insights based on understanding your code combined with machine learning..
 * [autoDocstring](https://marketplace.visualstudio.com/items?itemName=njpwerner.autodocstring) - Auto generates dosctrings for functions in a range of formats.
 * [Arepl](https://marketplace.visualstudio.com/items?itemName=almenon.arepl) - Real time Python scratchpad
-* [Python Ident](https://marketplace.visualstudio.com/items?itemName=KevinRose.vsc-python-indent) - Auto generates dosctrings for functions in a range of formats.
+* [Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner) - Select a piece of the code and run it.
 
 ## Do you think any extension is missing here?
-Open a Pull Request and I'll be reviewing the extension shortly.
+Open a [Pull Request](https://github.com/EliazBobadilla/Python-UltiExtension-Pack-VSCode/pulls) and I'll be reviewing the extension shortly.
 ### License
 This project is published under MIT License. Read more [here](./LICENSE).
 ### Issues
