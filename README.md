@@ -3,7 +3,7 @@
 
 This extension pack is made to make your life easier and leave you a ready-to-use workspace for Python development. I will be constantly updating the extension and checking comments.
 
-If you need more information about this pak you can visit the [official web page](https://marketplace.visualstudio.com/items?itemName=EliazBobadilla.python-ultiextension-pack).
+If you need more information about this pak you can visit the [official web page](https://eliazbobadilla.github.io/Python-UltiExtension-Pack-VSCode).
 
 ## Extensions Included
 
