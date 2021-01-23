@@ -2,6 +2,9 @@
 [![Version](https://vsmarketplacebadge.apphb.com/version-short/EliazBobadilla.python-ultiextension-pack.svg)](https://marketplace.visualstudio.com/items?itemName=EliazBobadilla.python-ultiextension-pack.) [![Rating](https://vsmarketplacebadge.apphb.com/rating-short/EliazBobadilla.python-ultiextension-pack..svg)](https://marketplace.visualstudio.com/items?itemName=EliazBobadilla.python-ultiextension-pack.) [![Installs](https://vsmarketplacebadge.apphb.com/installs/EliazBobadilla.python-ultiextension-pack.svg)](https://marketplace.visualstudio.com/items?itemName=EliazBobadilla.python-ultiextension-pack.) [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/) [![Maintenance](https://img.shields.io/badge/Maintained%3F-Yes-green.svg)](https://github.com/EliazBobadilla/Python-UltiExtension-Pack-VSCode/commits/main)
 
 This extension pack is made to make your life easier and leave you a ready-to-use workspace for Python development. I will be constantly updating the extension and checking comments.
+
+If you need more information about this pak you can visit the [official web page](https://marketplace.visualstudio.com/items?itemName=EliazBobadilla.python-ultiextension-pack).
+
 ## Extensions Included
 
 * [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python) - Linting, Debugging (multi-threaded, remote), Intellisense, code formatting, refactoring, unit tests, snippets, Data Science (with Jupyter), PySpark and more.  
