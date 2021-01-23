@@ -39,6 +39,7 @@
         "EliazBobadilla.python-ultisnippets",
         "VisualStudioExptTeam.vscodeintellicode",
         "njpwerner.autodocstring",
-        "almenon.arepl"
+		"almenon.arepl",
+		"formulahendry.code-runner"
     ]
 }
