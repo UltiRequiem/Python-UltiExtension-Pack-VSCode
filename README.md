@@ -15,7 +15,7 @@ If you need more information about this pak you can visit the [official web page
 * [Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner) - Select a piece of the code and run it.
 
 ## Do you think any extension is missing here?
-Open a [Pull Request](https://github.com/EliazBobadilla/Python-UltiExtension-Pack-VSCode/pulls) and I'll be reviewing the extension shortly.
+First read [contributing](https://github.com/EliazBobadilla/Python-UltiExtension-Pack-VSCode/blob/main/CONTRIBUTING.md) and Open a [Pull Request](https://github.com/EliazBobadilla/Python-UltiExtension-Pack-VSCode/pulls) and I'll be reviewing the extension shortly.
 ### License
 This project is published under MIT License. Read more [here](./LICENSE).
 ### Issues
